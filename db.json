@@ -1,14 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "Nombre": "6.0.20", "FechaLiberacion": "08-05-2015", "Link": "./Descargables/Index" },
+    { "Nombre": "6.0.24", "FechaLiberacion": "18-01-2016", "Link": "./Descargables/Index" },
+    { "Nombre": "6.0.28", "FechaLiberacion": "08-06-2016", "Link": "./Descargables/Index" },
+    { "Nombre": "6.0.32", "FechaLiberacion": "12-04-2017", "Link": "./Descargables/Index" }
+  ]
 }
