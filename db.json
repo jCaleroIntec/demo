@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "get": [
     { "nombre": "6.0.20", "fechaLiberacion": "08-05-2015", "link": "./Descargables/Index" },
     { "nombre": "6.0.24", "fechaLiberacion": "18-01-2016", "link": "./Descargables/Index" },
     { "nombre": "6.0.28", "fechaLiberacion": "08-06-2016", "link": "./Descargables/Index" },
