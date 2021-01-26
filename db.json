@@ -1,8 +1,8 @@
 {
   "get": [
-    { "nombre": "6.0.20", "fechaLiberacion": "08-05-2015", "link": "./Descargables/Index" },
-    { "nombre": "6.0.24", "fechaLiberacion": "18-01-2016", "link": "./Descargables/Index" },
-    { "nombre": "6.0.28", "fechaLiberacion": "08-06-2016", "link": "./Descargables/Index" },
-    { "nombre": "6.0.32", "fechaLiberacion": "12-04-2017", "link": "./Descargables/Index" }
+    { "nombre": "6.0.20", "fechaLiberacion": "08-05-2015", "link": "https://platzi.com/" },
+    { "nombre": "6.0.24", "fechaLiberacion": "18-01-2016", "link": "https://www.google.com.ar/" },
+    { "nombre": "6.0.28", "fechaLiberacion": "08-06-2016", "link": "http://plataforma.intecsoft.com.ar/web/" },
+    { "nombre": "6.0.32", "fechaLiberacion": "12-04-2017", "link": "https://saw.intecsoft.com.ar/Account/LogOn?ReturnUrl=%2f" }
   ]
 }
