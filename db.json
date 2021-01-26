@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "Nombre": "6.0.20", "FechaLiberacion": "08-05-2015", "Link": "./Descargables/Index" },
-    { "Nombre": "6.0.24", "FechaLiberacion": "18-01-2016", "Link": "./Descargables/Index" },
-    { "Nombre": "6.0.28", "FechaLiberacion": "08-06-2016", "Link": "./Descargables/Index" },
-    { "Nombre": "6.0.32", "FechaLiberacion": "12-04-2017", "Link": "./Descargables/Index" }
+    { "nombre": "6.0.20", "fechaLiberacion": "08-05-2015", "link": "./Descargables/Index" },
+    { "nombre": "6.0.24", "fechaLiberacion": "18-01-2016", "link": "./Descargables/Index" },
+    { "nombre": "6.0.28", "fechaLiberacion": "08-06-2016", "link": "./Descargables/Index" },
+    { "nombre": "6.0.32", "fechaLiberacion": "12-04-2017", "link": "./Descargables/Index" }
   ]
 }
