@@ -1,8 +1,20 @@
 {
   "versionesPlataforma": [
-    { "nombre": "6.0.20", "fechaLiberacion": "08-05-2015", "link": "https://platzi.com/" },
-    { "nombre": "6.0.24", "fechaLiberacion": "18-01-2016", "link": "https://www.google.com.ar/" },
-    { "nombre": "6.0.28", "fechaLiberacion": "08-06-2016", "link": "http://plataforma.intecsoft.com.ar/web/" },
-    { "nombre": "6.0.32", "fechaLiberacion": "12-04-2017", "link": "https://saw.intecsoft.com.ar/Account/LogOn?ReturnUrl=%2f" }
+    { "nombre": "6.0.20", "descripcion": "08-05-2015", "link": "https://platzi.com/" },
+    { "nombre": "6.0.24", "descripcion": "18-01-2016", "link": "https://www.google.com.ar/" },
+    { "nombre": "6.0.28", "descripcion": "08-06-2016", "link": "http://plataforma.intecsoft.com.ar/web/" },
+    { "nombre": "6.0.32", "descripcion": "12-04-2017", "link": "https://saw.intecsoft.com.ar/Account/LogOn?ReturnUrl=%2f" }
+  ],
+  "adicionalesPlataforma": [
+    { "nombre": "Instalación", "descripcion": "Documentación de instalación", "link": "https://platzi.com/" },
+    { "nombre": "Scritps", "descripcion": "Scripts varios a para tomar como ejemplo.", "link": "https://www.google.com.ar/" },
+    { "nombre": "Deploy Sql Windows 6.2 SP2", "descripcion": "Se instala en cada puesto en la carpeta C:\Centura62 (Para instalaciones de Plataforma 6.0.20 o posteriores)", "link": "http://plataforma.intecsoft.com.ar/web/" },
+    { "nombre": "Team Viewer", "descripcion": "Team Viewer", "link": "https://saw.intecsoft.com.ar/Account/LogOn?ReturnUrl=%2f" }
+  ],
+  "aplicativos": [
+    { "nombre": "AFI-E005", "descripcion": "Si.Fe.Re  + Instructivo", "link": "https://platzi.com/" },
+    { "nombre": "AFI-E015", "descripcion": "Control Padrón IIBB Pcia de Bs As . + Instructivo(Para instalaciones en 32b)", "link": "https://www.google.com.ar/" },
+    { "nombre": "AFI-E015", "descripcion": "Control Padrón IIBB Pcia de Bs As . + Instructivo(Para instalaciones en 64b)", "link": "http://plataforma.intecsoft.com.ar/web/" },
+    { "nombre": "AFI-E020", "descripcion": "Control Padrón IIBB CABA : Padrón de Alto Riesgo Fiscal y Contribuyentes Exentos + Instructivo", "link": "https://saw.intecsoft.com.ar/Account/LogOn?ReturnUrl=%2f" }
   ]
 }
