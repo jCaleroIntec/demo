@@ -1,6 +1,7 @@
 {
   "links":{
     "versionesPlataforma": [
+       { "nombre": "Version", "descripcion": "Fecha de liberacion", "link": "" },
       { "nombre": "6.0.20", "descripcion": "08-05-2015", "link": "https://platzi.com/" },
       { "nombre": "6.0.24", "descripcion": "18-01-2016", "link": "https://www.google.com.ar/" },
       { "nombre": "6.0.28", "descripcion": "08-06-2016", "link": "http://plataforma.intecsoft.com.ar/web/" },
