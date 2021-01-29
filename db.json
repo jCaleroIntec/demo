@@ -8,7 +8,7 @@
   "adicionalesPlataforma": [
     { "nombre": "Instalación", "descripcion": "Documentación de instalación", "link": "https://platzi.com/" },
     { "nombre": "Scritps", "descripcion": "Scripts varios a para tomar como ejemplo.", "link": "https://www.google.com.ar/" },
-    { "nombre": "Deploy Sql Windows 6.2 SP2", "descripcion": "Se instala en cada puesto en la carpeta C:\Centura62 (Para instalaciones de Plataforma 6.0.20 o posteriores)", "link": "http://plataforma.intecsoft.com.ar/web/" },
+    { "nombre": "Deploy Sql Windows 6.2 SP2", "descripcion": "Se instala en cada puesto en la carpeta C:\ Centura62 (Para instalaciones de Plataforma 6.0.20 o posteriores)", "link": "http://plataforma.intecsoft.com.ar/web/" },
     { "nombre": "Team Viewer", "descripcion": "Team Viewer", "link": "https://saw.intecsoft.com.ar/Account/LogOn?ReturnUrl=%2f" }
   ],
   "aplicativos": [
